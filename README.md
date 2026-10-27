@@ -1,2 +1,2 @@
-# study-code
-Personal programming learning repository
+# Learning Code
+This repo stores my programming practice code for self-study.
